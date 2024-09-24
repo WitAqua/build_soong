@@ -260,8 +260,11 @@ org\.chromium\.arc
 org\.chromium\.arc\..*
 
 # Lineage adds
-lineageos\.platform
-org\.lineageos\.platform\.internal
+vendor\.lineage.*
+
+# WitAqua adds
+tokyo\.witaqua
+tokyo\.witaqua\..*
 
 # NV adds
 com\.nvidia
