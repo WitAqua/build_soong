@@ -256,3 +256,7 @@ org\.ifaa\.aidl.*
 
 # Nothing
 com\.nothing.*
+
+###################################################
+# Camera Extensions
+com.camera.camera2.extensions.*
