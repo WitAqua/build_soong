@@ -265,6 +265,12 @@ org\.chromium\.arc\..*
 lineageos\.platform
 org\.lineageos\.platform\.internal
 
+# LG adds
+com\.lge
+com\.lge\..*
+com\.qualcomm\.qcrilhook
+vendor\.lge\..*
+
 # NT adds
 com\.nothing
 com\.nothing\..*
