@@ -273,6 +273,12 @@ com\.google\.wear\..*
 lineageos\.platform
 org\.lineageos\.platform\.internal
 
+# LG adds
+com\.lge
+com\.lge\..*
+com\.qualcomm\.qcrilhook
+vendor\.lge\..*
+
 # MTK adds
 com\.mediatek
 com\.mediatek\..*
